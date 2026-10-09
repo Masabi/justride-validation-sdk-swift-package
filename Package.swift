@@ -28,13 +28,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "JustrideValidationSDK",
-            url: "https://val-artifactory.justride.com/artifactory/libs-release-local/com/masabi/validation/JustrideValidationSDK-ios/6.46.21/JustrideValidationSDK-ios-6.46.21.zip",
-            checksum: "a48c7da5821336c1c4b7f4233f5f91efbee17431d669dd3f707d48bb8a3cfa08"
+            url: "https://val-artifactory.justride.com/artifactory/libs-release-local/com/masabi/validation/JustrideValidationSDK-ios/6.54.1/JustrideValidationSDK-ios-6.54.1.zip",
+            checksum: "2febf214e4d84917b02c70377ba550ca2cc98ec87cde0947322800525701a19c"
         ),
         .binaryTarget(
             name: "mbedtls",
-            url: "https://val-artifactory.justride.com/artifactory/libs-release-local/com/masabi/validation/mbedtls-ios/6.46.21/mbedtls-ios-6.46.21.zip",
-            checksum: "736f4ca6c9b4b616355024547e7aa21dc706455c9eeb0e2973653924823b16e3"
+            url: "https://val-artifactory.justride.com/artifactory/libs-release-local/com/masabi/validation/mbedtls-ios/6.54.1/mbedtls-ios-6.54.1.zip",
+            checksum: "e2f68e9374b454a77369426ce9ed05f8f76c9b1444825a656d4e571197f4e9e2"
         )
 
     ]
